@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Feelascope – TikTok connected</title>
+<meta name="robots" content="noindex">
+<style>
+  body{margin:0;font-family:system-ui,sans-serif;background:#FFF6EC;color:#1F2A44;line-height:1.6}
+  main{max-width:640px;margin:0 auto;padding:48px 24px}
+  #code{width:100%;font:14px monospace;padding:12px;border:3px solid #FF7A59;border-radius:10px;box-sizing:border-box}
+  button,a.btn{display:inline-block;margin-top:14px;padding:12px 20px;border:0;border-radius:999px;background:#1F2A44;color:#FFF6EC;font-weight:600;font-size:16px;text-decoration:none;cursor:pointer}
+</style>
+</head>
+<body>
+<main>
+  <h1>TikTok connected</h1>
+  <p id="msg">Step 1: copy this code. Step 2: open the GitHub page and paste it.</p>
+  <input id="code" readonly>
+  <br><button id="copy">1. Copy code</button>
+  <a class="btn" href="https://github.com/feelascope-coder/feelascope-machine/actions/workflows/tiktok-koppelen.yml" target="_blank">2. Open GitHub</a>
+  <p style="font-size:14px">On GitHub: click <b>Run workflow</b>, paste the code in the field and click the green <b>Run workflow</b> button.</p>
+</main>
+<script>
+  const p = new URLSearchParams(location.search);
+  const c = p.get('code') || '';
+  document.getElementById('code').value = c;
+  if (!c) document.getElementById('msg').textContent = 'No code found' + (p.get('error') ? ': ' + p.get('error_description') : '.');
+  document.getElementById('copy').onclick = async () => {
+    const el = document.getElementById('code'); el.select();
+    try { await navigator.clipboard.writeText(el.value); } catch (e) { document.execCommand('copy'); }
+    document.getElementById('copy').textContent = 'Copied ✓';
+  };
+</script>
+</body>
+</html>

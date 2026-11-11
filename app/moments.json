@@ -19,7 +19,21 @@
         "title": "Mia and the Balloon",
         "text": "Mia had a balloon inside her tummy. Every time something hard happened at school, a little more air went in. When Noah took her red crayon. Puff. When she had to wait for the swing. Puff. When Lily sat with someone else at snack time. Puff, puff. By three o'clock the balloon was very, very big. Then Mia saw Mom at the gate. And POP. Mia cried. She stomped. She said, \"I don't want to walk!\" Mom didn't get mad. Mom knelt down and said, \"That balloon got really full today, huh?\" Mia nodded. Mom gave her a cracker and held her hand. They walked slowly. At home, they blew up a real balloon and let the air out, slowly, slowly, with a funny squeak. Mia laughed. \"My balloon is empty now,\" she said. Mom smiled. \"Tomorrow, if it gets full again, you know where to bring it.\" Mia knew. She could always bring it home."
       },
-      "img": "after-school.jpg"
+      "img": "after-school.jpg",
+      "practice": {
+        "q": "You pick her up. She screams \"I hate this backpack!\" and throws it. What do you say first?",
+        "options": [
+          "\"Hey! We don't throw things. Pick it up.\"",
+          "\"Long day, huh? Snack first, talk later.\"",
+          "\"How was your day? What did you do?\""
+        ],
+        "best": 1,
+        "feedback": [
+          "A limit is fine later, but right now her tank is empty. Leading with a correction usually makes the storm bigger.",
+          "Yes. Food, calm and no questions first. You're showing her she's safe to land.",
+          "Questions feel like more work to an empty tank. Save them for after the snack."
+        ]
+      }
     },
     {
       "id": "bedtime-stall",
@@ -39,7 +53,21 @@
         "title": "Mia's Two Tickets",
         "text": "Every night, Mia wanted one more. One more drink. One more book. One more hug. One more question about whales. Then Dad had an idea. He cut two little tickets out of yellow paper. \"These are your One More tickets,\" he said. \"You can use them for anything. But only two.\" Mia held them tight. Tonight she used the first ticket for a hug. A big squeezy one. She thought very hard about the second ticket. Water? No. Another book? No. \"Can you check on me later?\" she asked. Dad took the ticket. \"Deal. In five minutes.\" He turned off the light. Mia lay still and listened. She heard Dad in the hallway. She heard the dishwasher hum. She counted the stars on her ceiling. And then the door opened a crack. \"Still here,\" whispered Dad. Mia smiled. She was almost asleep. Some nights, it turns out, you only need to know someone is coming back."
       },
-      "img": "bedtime-stall.jpg"
+      "img": "bedtime-stall.jpg",
+      "practice": {
+        "q": "It's the fourth \"one more thing\". What helps most?",
+        "options": [
+          "\"That's it. No more. Go to sleep NOW.\"",
+          "\"You can have one more, then I'll check on you in five minutes.\"",
+          "Ignore it and close the door."
+        ],
+        "best": 1,
+        "feedback": [
+          "Understandable, but it ends the day in a fight and makes the goodbye scarier.",
+          "Yes. A clear last one plus a promise to come back gives them the connection they're asking for.",
+          "Silence can feel like being left. The asking often gets louder."
+        ]
+      }
     },
     {
       "id": "tablet-off",
@@ -59,7 +87,21 @@
         "title": "Mia Says Goodbye to the Show",
         "text": "Mia loved her penguin show. She loved it so much that when Mom turned it off, Mia's tummy went hot and her hands went tight. \"NO!\" she shouted. One afternoon, Mom tried something new. \"In two minutes, the penguins are going to sleep,\" she said. \"Want to tell them goodnight?\" Mia watched the penguins slide on the ice. Mom sat beside her. When the episode ended, Mia waved at the screen. \"Bye, penguins. See you tomorrow.\" The screen went dark. Mia's tummy felt a tiny bit hot. But only a tiny bit. \"That was hard,\" she said. \"It was,\" said Mom. \"And you did it.\" Then they made penguin toes on the kitchen floor and waddled all the way to dinner. Mia slid on her socks like she was on the ice. The penguins were sleeping. But Mia was right here, laughing with Mom."
       },
-      "img": "tablet-off.jpg"
+      "img": "tablet-off.jpg",
+      "practice": {
+        "q": "The show ends in two minutes. What do you do?",
+        "options": [
+          "Wait, then switch it off mid-scene.",
+          "\"Two more minutes, then we say bye to the show together.\"",
+          "\"If you scream, no tablet tomorrow.\""
+        ],
+        "best": 1,
+        "feedback": [
+          "A sudden stop feels like a jolt. That's when the storm starts.",
+          "Yes. A warning and a little goodbye help the brain shift gears.",
+          "A threat before anything has happened adds stress to a hard transition."
+        ]
+      }
     },
     {
       "id": "no-everything",
@@ -79,7 +121,21 @@
         "title": "Mia the Boss of Small Things",
         "text": "One morning Mia said no to everything. No to socks. No to toast. No to the blue cup. Dad sat down on the kitchen floor. \"Mia,\" he said, \"I think you need to be the boss of something.\" Mia folded her arms. \"Of what?\" \"Of small things,\" said Dad. \"Big things, like school and teeth, are my job. But small things can be yours.\" Mia thought about it. \"Like socks?\" \"Like which socks,\" said Dad. Mia chose the ones with foxes. She chose the red cup. She chose to hop to the car instead of walk. All day, she was the boss of small things. At bedtime, Dad asked, \"Do you want to brush your teeth?\" Mia started to say no. Then Dad winked. \"Oops. Wrong question. Top teeth first or bottom teeth first?\" Mia giggled. \"Bottom!\" she said. Being the boss felt very good. Even of very small things."
       },
-      "img": "no-everything.jpg"
+      "img": "no-everything.jpg",
+      "practice": {
+        "q": "He says no to getting dressed. Which question works best?",
+        "options": [
+          "\"Do you want to get dressed now?\"",
+          "\"Dinosaur shirt or rocket shirt?\"",
+          "\"Why are you always so difficult?\""
+        ],
+        "best": 1,
+        "feedback": [
+          "A yes-or-no question invites a no.",
+          "Yes. A small choice lets him be the boss of something, and getting dressed still happens.",
+          "Labels like 'difficult' tend to stick, and kids often live up to them."
+        ]
+      }
     },
     {
       "id": "morning-rush",
@@ -99,7 +155,21 @@
         "title": "Mia and the Sleepy Batteries",
         "text": "Some mornings, Mia's batteries were sleepy. Mom said, \"Hurry, hurry!\" and Mia's legs said, \"Nope.\" She lay on the floor with one sock on. Mom looked at the clock. Then Mom looked at Mia. And Mom did something surprising. She lay down on the floor too. \"Oh no,\" said Mom. \"My batteries are sleepy too.\" Mia giggled. They lay there for a minute, looking at the ceiling. \"How do we charge our batteries?\" asked Mom. \"With a hug,\" said Mia. So they hugged. A long one. \"Beep, beep, ten percent,\" said Mom. Another hug. \"Fifty percent!\" One more. \"FULL BATTERY!\" Mia jumped up. She put on her other sock. She found her shoes. She even beat Mom to the door. In the car, Mia said, \"Mom? Tomorrow can we charge first?\" And Mom said yes."
       },
-      "img": "morning-rush.jpg"
+      "img": "morning-rush.jpg",
+      "practice": {
+        "q": "8:02 a.m. She's on the floor with one sock. What's your move?",
+        "options": [
+          "Count down from five with a consequence.",
+          "Two minutes of snuggle, then \"Let's beat the timer!\"",
+          "Dress her yourself while she cries."
+        ],
+        "best": 1,
+        "feedback": [
+          "Fear usually makes a frozen kid slower.",
+          "Yes. A short reconnection often saves more time than pushing.",
+          "Sometimes needed, but it doesn't help the next morning go better."
+        ]
+      }
     },
     {
       "id": "drop-off",
@@ -119,7 +189,21 @@
         "title": "The Kiss in Mia's Pocket",
         "text": "Mia did not like goodbyes. At the classroom door, she held Mom's leg like a koala. One night, Mom had an idea. She took Mia's hand and kissed the middle of it. \"This is a pocket kiss,\" she said. \"Tomorrow, I'll put one in your pocket. Whenever you miss me, you can take it out.\" The next morning, at the door, Mom kissed her fingers and pushed the kiss into Mia's jacket pocket. \"I come back after recess and snack,\" said Mom. \"I always come back.\" Then Mom waved and walked away. Mia's lip wobbled. Ms. Rivera held her hand. At snack time, Mia felt a little lonely. She reached into her pocket. She couldn't see the kiss. But she could feel it, warm and small. She held it to her cheek. After recess, Mom was at the gate. Just like she said. \"Did you use the kiss?\" asked Mom. \"Only once,\" said Mia. \"I'm saving the rest.\""
       },
-      "img": "drop-off.jpg"
+      "img": "drop-off.jpg",
+      "practice": {
+        "q": "He clings to your leg at the classroom door. What helps most?",
+        "options": [
+          "Sneak out while he's distracted.",
+          "A short, warm goodbye with a promise of when you come back, then go.",
+          "Stay until he stops crying, however long it takes."
+        ],
+        "best": 1,
+        "feedback": [
+          "Sneaking out can make the next drop-off scarier.",
+          "Yes. Short, warm and predictable. 'After snack and recess, I'm at the gate.'",
+          "A long goodbye often makes the separation harder for both of you."
+        ]
+      }
     },
     {
       "id": "i-hate-you",
@@ -139,7 +223,21 @@
         "title": "Mia's Biggest Words",
         "text": "Mia wanted to stay at the park. Dad said it was time to go. And Mia shouted the biggest words she knew. \"I HATE YOU!\" The words flew out like rocks. Mia was surprised by them. So was Dad. But Dad didn't shout back. He sat down on the bench. \"Wow,\" he said softly. \"That's a really big mad.\" Mia stomped. Mia huffed. Mia sat down too, far away at the end of the bench. Then a little closer. Then right next to Dad. \"I don't hate you,\" she whispered. \"I know,\" said Dad. \"You hated leaving. That's different.\" At home, they made a list of big feeling words. Furious. Grumpy. Frustrated. Disappointed. Mia liked furious best. It sounded like a lion. \"Next time,\" said Dad, \"you can roar 'FURIOUS!' and I'll know exactly what you mean.\" Mia roared it right then, just to practice. Dad pretended to be scared. And they both laughed."
       },
-      "img": "i-hate-you.jpg"
+      "img": "i-hate-you.jpg",
+      "practice": {
+        "q": "She yells \"I HATE YOU!\" What's the best first response?",
+        "options": [
+          "\"That really hurts my feelings.\"",
+          "\"You're really mad. I love you even when you're mad.\"",
+          "\"Go to your room until you can be nice.\""
+        ],
+        "best": 1,
+        "feedback": [
+          "True, but in the moment it hands a huge feeling to a small child.",
+          "Yes. You name the feeling and show the love doesn't break.",
+          "Sending her away can feel like proof that big feelings push people away."
+        ]
+      }
     },
     {
       "id": "hitting",
@@ -159,7 +257,21 @@
         "title": "Where Does the Angry Go?",
         "text": "Lily took the last purple block. Mia's angry went zoom, straight into her hand, and she hit Lily on the arm. Lily cried. Mia felt cold all over. Mom came and gently held Mia's hands. \"I won't let you hit,\" she said. Her voice was calm, but strong. Mia started to cry too. \"I'm a bad girl.\" \"No,\" said Mom. \"You're a good girl with a big angry. We just need to find a place for it.\" They looked around the room. \"Could the angry go into a pillow?\" asked Mom. Mia squeezed a pillow very hard. \"Could it go into your feet?\" Mia stomped like an elephant. \"Could it go into a roar?\" Mia roared. Lily laughed through her tears. Then Mia gave Lily the purple block. \"Sorry,\" she said. \"Want to build a castle?\" They built the tallest castle ever. Mia knew now. Angry is allowed. It just needs a better place to go."
       },
-      "img": "hitting.jpg"
+      "img": "hitting.jpg",
+      "practice": {
+        "q": "He hits his friend over a toy. What do you say first?",
+        "options": [
+          "\"What is wrong with you?\"",
+          "\"I won't let you hit.\" (gently holding his hands)",
+          "\"Say sorry right now!\""
+        ],
+        "best": 1,
+        "feedback": [
+          "Kids who hear they're bad tend to act like it.",
+          "Yes. A calm, firm limit first. The repair comes when he's calm.",
+          "A forced sorry in the heat of anger rarely means anything yet. Repair works better a bit later."
+        ]
+      }
     },
     {
       "id": "dark",
@@ -179,7 +291,21 @@
         "title": "Mia's Night Light Guard",
         "text": "When the lights went out, Mia's closet looked like it had eyes. \"Mom!\" she called. \"There's something in there!\" Mom didn't laugh. She came in with a flashlight. \"Let's look together,\" she said. They checked the closet. Shoes. A dress. A sleepy teddy bear. They checked under the bed. A sock. A crayon. \"All clear,\" said Mom. \"But you know what? Your room needs a guard.\" She plugged in a little night light shaped like a moon. \"This is Luna. Luna stays awake all night so you don't have to.\" Mia looked at Luna. Luna glowed softly. \"Does Luna get scared?\" asked Mia. \"Never,\" said Mom. \"She's been guarding rooms for a hundred years.\" Mia pulled up her blanket. The closet didn't have eyes anymore. It just had shoes. \"Goodnight, Luna,\" Mia whispered. And the little moon glowed back, keeping watch all night long."
       },
-      "img": "dark.jpg"
+      "img": "dark.jpg",
+      "practice": {
+        "q": "\"There's a monster in my closet!\" What do you say?",
+        "options": [
+          "\"Don't be silly, monsters aren't real.\"",
+          "\"That sounds scary. Let's check together.\"",
+          "\"If you keep calling me, I'll close the door.\""
+        ],
+        "best": 1,
+        "feedback": [
+          "The fear stays, but now she feels alone with it.",
+          "Yes. Taking the fear seriously helps it shrink.",
+          "Fear plus a threat usually means more calling, not less."
+        ]
+      }
     },
     {
       "id": "dinner",
@@ -199,7 +325,21 @@
         "title": "The Stranger on Mia's Plate",
         "text": "There was a stranger on Mia's plate. It was green and bumpy. \"Yuck,\" said Mia. Grandma smiled. \"That's broccoli. It came all the way from the garden to meet you. You don't have to eat it. Maybe just say hi.\" Mia looked at the broccoli. \"Hi,\" she said. \"It looks like a tiny tree,\" said Grandma. Mia giggled. She made the tree walk across her plate. She gave it a name. Bob. She smelled Bob. He smelled like a garden. The next night, Bob's cousin was on her plate. Mia licked him. Hmm. Not bad. Not great. The night after that, Mia took one tiny bite of the very top of the tree. She chewed. She thought about it. \"It's okay,\" she said. \"Like a crunchy tree.\" Grandma didn't clap or cheer. She just said, \"Thank you for meeting Bob.\" And Mia felt proud, all on her own."
       },
-      "img": "dinner.jpg"
+      "img": "dinner.jpg",
+      "practice": {
+        "q": "\"Yuck!\" He won't touch the broccoli. What works best over time?",
+        "options": [
+          "\"Three bites and you get dessert.\"",
+          "\"It can just sit on your plate and say hi.\"",
+          "\"You're not leaving the table until it's gone.\""
+        ],
+        "best": 1,
+        "feedback": [
+          "Bribes teach that vegetables are the punishment and dessert is the prize.",
+          "Yes. Low pressure and lots of relaxed exposures work best over time.",
+          "Pressure tends to backfire and can turn dinner into a battle."
+        ]
+      }
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "name": "Feelascope Right Now",
+  "short_name": "Right Now",
+  "description": "What to say in the hard moments with kids 3–8, plus a bedtime story for tonight.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF6EC",
+  "theme_color": "#FFF6EC",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

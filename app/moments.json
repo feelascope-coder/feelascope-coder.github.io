@@ -1,0 +1,205 @@
+{
+  "version": 1,
+  "moments": [
+    {
+      "id": "after-school",
+      "free": true,
+      "title": "The meltdown after school",
+      "sub": "Sweet all day at school. Falls apart the second you pick them up.",
+      "tag": "Pickup",
+      "feel": "I was good all day. I sat still. I waited my turn. I didn't cry when Lily played with someone else. I held it all in, like a balloon. And when I saw you, the balloon popped. You're my safe place. That's why it all came out on you.",
+      "why": "Many kids spend the whole school day holding in their feelings, then let go with the person they feel safest with. A meltdown at pickup often means trust, not failure.",
+      "say": [
+        "\"You worked so hard today. You can let it out with me.\"",
+        "\"Snack first. Talking later.\"",
+        "\"I'm right here. I'm not going anywhere.\""
+      ],
+      "avoid": "Firing questions (\"How was your day? What did you learn?\") in the first ten minutes. Their tank is empty.",
+      "tonight": {
+        "title": "Mia and the Balloon",
+        "text": "Mia had a balloon inside her tummy. Every time something hard happened at school, a little more air went in. When Noah took her red crayon. Puff. When she had to wait for the swing. Puff. When Lily sat with someone else at snack time. Puff, puff. By three o'clock the balloon was very, very big. Then Mia saw Mom at the gate. And POP. Mia cried. She stomped. She said, \"I don't want to walk!\" Mom didn't get mad. Mom knelt down and said, \"That balloon got really full today, huh?\" Mia nodded. Mom gave her a cracker and held her hand. They walked slowly. At home, they blew up a real balloon and let the air out, slowly, slowly, with a funny squeak. Mia laughed. \"My balloon is empty now,\" she said. Mom smiled. \"Tomorrow, if it gets full again, you know where to bring it.\" Mia knew. She could always bring it home."
+      },
+      "img": "after-school.jpg"
+    },
+    {
+      "id": "bedtime-stall",
+      "free": true,
+      "title": "One more drink. One more hug. One more...",
+      "sub": "Bedtime turns into an hour of requests.",
+      "tag": "Bedtime",
+      "feel": "When the light goes off, you go away. The day is over and I didn't get enough of you yet. So I ask for water. I ask for one more hug. I don't really need the water. I need a little more time with you before the dark.",
+      "why": "Bedtime is a goodbye for young kids. Stalling is often a way to stay connected a little longer, especially on busy days.",
+      "say": [
+        "\"You get two 'one mores' tonight. Which ones do you want?\"",
+        "\"I'll come back to check on you in five minutes.\"",
+        "\"Even when the light is off, I'm still loving you from the next room.\""
+      ],
+      "avoid": "Lecturing at the door. It turns the last minutes of the day into a fight, and that makes the goodbye harder.",
+      "tonight": {
+        "title": "Mia's Two Tickets",
+        "text": "Every night, Mia wanted one more. One more drink. One more book. One more hug. One more question about whales. Then Dad had an idea. He cut two little tickets out of yellow paper. \"These are your One More tickets,\" he said. \"You can use them for anything. But only two.\" Mia held them tight. Tonight she used the first ticket for a hug. A big squeezy one. She thought very hard about the second ticket. Water? No. Another book? No. \"Can you check on me later?\" she asked. Dad took the ticket. \"Deal. In five minutes.\" He turned off the light. Mia lay still and listened. She heard Dad in the hallway. She heard the dishwasher hum. She counted the stars on her ceiling. And then the door opened a crack. \"Still here,\" whispered Dad. Mia smiled. She was almost asleep. Some nights, it turns out, you only need to know someone is coming back."
+      },
+      "img": "bedtime-stall.jpg"
+    },
+    {
+      "id": "tablet-off",
+      "free": true,
+      "title": "The tablet goes off. The screaming starts.",
+      "sub": "Screen time ends and your sweet kid turns into a storm.",
+      "tag": "Screens",
+      "feel": "I was inside the show. I was in the middle of it. Then it was just... gone. Like someone pulled me out of a warm bath into the cold. My body got angry before my words could catch up.",
+      "why": "Shows and games are built to be hard to stop. Switching off fast feels like a jolt. A warning and a clear ending help the brain shift gears.",
+      "say": [
+        "\"Two more minutes. Then we say bye-bye to the show together.\"",
+        "\"It's hard to stop something fun. I get it.\"",
+        "\"Show me the best part. Then it goes off.\""
+      ],
+      "avoid": "Grabbing the tablet mid-scene without a warning. It makes the next time harder, too.",
+      "tonight": {
+        "title": "Mia Says Goodbye to the Show",
+        "text": "Mia loved her penguin show. She loved it so much that when Mom turned it off, Mia's tummy went hot and her hands went tight. \"NO!\" she shouted. One afternoon, Mom tried something new. \"In two minutes, the penguins are going to sleep,\" she said. \"Want to tell them goodnight?\" Mia watched the penguins slide on the ice. Mom sat beside her. When the episode ended, Mia waved at the screen. \"Bye, penguins. See you tomorrow.\" The screen went dark. Mia's tummy felt a tiny bit hot. But only a tiny bit. \"That was hard,\" she said. \"It was,\" said Mom. \"And you did it.\" Then they made penguin toes on the kitchen floor and waddled all the way to dinner. Mia slid on her socks like she was on the ice. The penguins were sleeping. But Mia was right here, laughing with Mom."
+      },
+      "img": "tablet-off.jpg"
+    },
+    {
+      "id": "no-everything",
+      "free": false,
+      "title": "\"No!\" to absolutely everything",
+      "sub": "Shoes, breakfast, bath, the color of the cup. No, no, no.",
+      "tag": "Defiance",
+      "feel": "All day, everybody tells me what to do. Get up. Eat this. Hurry. My body is small, but my 'no' is big. When I say no, I feel like I'm somebody too.",
+      "why": "Saying no is how young kids test that they are their own person. More small choices usually means fewer big battles.",
+      "say": [
+        "\"Red cup or blue cup?\"",
+        "\"Shoes first or jacket first? You're the boss of the order.\"",
+        "\"You can say no to the cup. Teeth still happen.\""
+      ],
+      "avoid": "Asking yes-or-no questions you don't want a 'no' to, like \"Do you want to take a bath?\"",
+      "tonight": {
+        "title": "Mia the Boss of Small Things",
+        "text": "One morning Mia said no to everything. No to socks. No to toast. No to the blue cup. Dad sat down on the kitchen floor. \"Mia,\" he said, \"I think you need to be the boss of something.\" Mia folded her arms. \"Of what?\" \"Of small things,\" said Dad. \"Big things, like school and teeth, are my job. But small things can be yours.\" Mia thought about it. \"Like socks?\" \"Like which socks,\" said Dad. Mia chose the ones with foxes. She chose the red cup. She chose to hop to the car instead of walk. All day, she was the boss of small things. At bedtime, Dad asked, \"Do you want to brush your teeth?\" Mia started to say no. Then Dad winked. \"Oops. Wrong question. Top teeth first or bottom teeth first?\" Mia giggled. \"Bottom!\" she said. Being the boss felt very good. Even of very small things."
+      },
+      "img": "no-everything.jpg"
+    },
+    {
+      "id": "morning-rush",
+      "free": false,
+      "title": "We're late and they won't get dressed",
+      "sub": "The clock is ticking. Your kid is lying on the floor with one sock.",
+      "tag": "Mornings",
+      "feel": "Your voice is fast in the morning. Fast feet, fast words, fast face. When everything is fast, I get slow. I don't know why. My body just stops, like a toy with no batteries.",
+      "why": "Rushing raises stress, and stressed kids often freeze or slow down. A few calm minutes of connection can save fifteen minutes of pushing.",
+      "say": [
+        "\"Let's beat the timer together. Ready, set, socks!\"",
+        "\"I'll do one sock, you do the other.\"",
+        "\"Two minutes of snuggle, then we race.\""
+      ],
+      "avoid": "Counting down with threats (\"If you're not dressed by five...\"). Fear makes slow kids slower.",
+      "tonight": {
+        "title": "Mia and the Sleepy Batteries",
+        "text": "Some mornings, Mia's batteries were sleepy. Mom said, \"Hurry, hurry!\" and Mia's legs said, \"Nope.\" She lay on the floor with one sock on. Mom looked at the clock. Then Mom looked at Mia. And Mom did something surprising. She lay down on the floor too. \"Oh no,\" said Mom. \"My batteries are sleepy too.\" Mia giggled. They lay there for a minute, looking at the ceiling. \"How do we charge our batteries?\" asked Mom. \"With a hug,\" said Mia. So they hugged. A long one. \"Beep, beep, ten percent,\" said Mom. Another hug. \"Fifty percent!\" One more. \"FULL BATTERY!\" Mia jumped up. She put on her other sock. She found her shoes. She even beat Mom to the door. In the car, Mia said, \"Mom? Tomorrow can we charge first?\" And Mom said yes."
+      },
+      "img": "morning-rush.jpg"
+    },
+    {
+      "id": "drop-off",
+      "free": false,
+      "title": "Tears at drop-off",
+      "sub": "Clinging to your leg at the classroom door.",
+      "tag": "Goodbyes",
+      "feel": "When you leave, a part of me goes with you. I don't know when you'll come back. 'Later' is a really long word when you're little. So I hold on to you as tight as I can.",
+      "why": "Separation is hard, and kids often can't picture 'later'. A short, warm, predictable goodbye usually helps more than a long one.",
+      "say": [
+        "\"I always come back. After snack and recess, I'm at the gate.\"",
+        "\"Here's a kiss for your pocket, for when you miss me.\"",
+        "\"Ms. Rivera has you now. I love you. Bye!\" and then go."
+      ],
+      "avoid": "Sneaking out when they're not looking. It can make the next drop-off even scarier.",
+      "tonight": {
+        "title": "The Kiss in Mia's Pocket",
+        "text": "Mia did not like goodbyes. At the classroom door, she held Mom's leg like a koala. One night, Mom had an idea. She took Mia's hand and kissed the middle of it. \"This is a pocket kiss,\" she said. \"Tomorrow, I'll put one in your pocket. Whenever you miss me, you can take it out.\" The next morning, at the door, Mom kissed her fingers and pushed the kiss into Mia's jacket pocket. \"I come back after recess and snack,\" said Mom. \"I always come back.\" Then Mom waved and walked away. Mia's lip wobbled. Ms. Rivera held her hand. At snack time, Mia felt a little lonely. She reached into her pocket. She couldn't see the kiss. But she could feel it, warm and small. She held it to her cheek. After recess, Mom was at the gate. Just like she said. \"Did you use the kiss?\" asked Mom. \"Only once,\" said Mia. \"I'm saving the rest.\""
+      },
+      "img": "drop-off.jpg"
+    },
+    {
+      "id": "i-hate-you",
+      "free": false,
+      "title": "\"I hate you!\"",
+      "sub": "The words that land like a punch.",
+      "tag": "Big words",
+      "feel": "I don't hate you. I hate this feeling. It's so big it doesn't fit in my body. 'I hate you' are the biggest words I know, so I throw them at the biggest person I trust.",
+      "why": "Young kids don't have words for huge feelings yet, so they borrow the strongest ones they know. It's usually a sign of overwhelm, not of how they feel about you.",
+      "say": [
+        "\"You're really, really mad. That's okay. I'm not going anywhere.\"",
+        "\"I love you even when you're mad at me.\"",
+        "Later, when calm: \"Let's find a word for that feeling. Was it furious?\""
+      ],
+      "avoid": "Saying \"That hurts my feelings\" in the heat of the moment. It hands a huge feeling to a small child.",
+      "tonight": {
+        "title": "Mia's Biggest Words",
+        "text": "Mia wanted to stay at the park. Dad said it was time to go. And Mia shouted the biggest words she knew. \"I HATE YOU!\" The words flew out like rocks. Mia was surprised by them. So was Dad. But Dad didn't shout back. He sat down on the bench. \"Wow,\" he said softly. \"That's a really big mad.\" Mia stomped. Mia huffed. Mia sat down too, far away at the end of the bench. Then a little closer. Then right next to Dad. \"I don't hate you,\" she whispered. \"I know,\" said Dad. \"You hated leaving. That's different.\" At home, they made a list of big feeling words. Furious. Grumpy. Frustrated. Disappointed. Mia liked furious best. It sounded like a lion. \"Next time,\" said Dad, \"you can roar 'FURIOUS!' and I'll know exactly what you mean.\" Mia roared it right then, just to practice. Dad pretended to be scared. And they both laughed."
+      },
+      "img": "i-hate-you.jpg"
+    },
+    {
+      "id": "hitting",
+      "free": false,
+      "title": "They hit when they're angry",
+      "sub": "A playdate goes wrong and the hand comes out first.",
+      "tag": "Hitting",
+      "feel": "My anger was faster than my brain. It went straight to my hand. After I hit, I felt scared and bad. I didn't want to be a hitter. I just didn't know where to put all that angry.",
+      "why": "Hitting is common in young kids whose impulse control is still developing. They need a firm limit and a safe place to put the anger, not shame.",
+      "say": [
+        "\"I won't let you hit. I'm going to hold your hands.\"",
+        "\"You can stomp, squeeze a pillow, or roar. Hands are not for hitting.\"",
+        "Later: \"Lily got hurt. How can we help her feel better?\""
+      ],
+      "avoid": "\"What's wrong with you?\" Kids who hear they are bad tend to act like it.",
+      "tonight": {
+        "title": "Where Does the Angry Go?",
+        "text": "Lily took the last purple block. Mia's angry went zoom, straight into her hand, and she hit Lily on the arm. Lily cried. Mia felt cold all over. Mom came and gently held Mia's hands. \"I won't let you hit,\" she said. Her voice was calm, but strong. Mia started to cry too. \"I'm a bad girl.\" \"No,\" said Mom. \"You're a good girl with a big angry. We just need to find a place for it.\" They looked around the room. \"Could the angry go into a pillow?\" asked Mom. Mia squeezed a pillow very hard. \"Could it go into your feet?\" Mia stomped like an elephant. \"Could it go into a roar?\" Mia roared. Lily laughed through her tears. Then Mia gave Lily the purple block. \"Sorry,\" she said. \"Want to build a castle?\" They built the tallest castle ever. Mia knew now. Angry is allowed. It just needs a better place to go."
+      },
+      "img": "hitting.jpg"
+    },
+    {
+      "id": "dark",
+      "free": false,
+      "title": "Scared of the dark",
+      "sub": "Monsters in the closet. Again. At 9:30 p.m.",
+      "tag": "Fears",
+      "feel": "When it's dark, I can't see what's real. My imagination is very strong, and it fills the dark with scary things. I know you say monsters aren't real. But my heart doesn't know that yet.",
+      "why": "Fears of the dark are very common between about 3 and 6, as imagination grows faster than the ability to tell real from pretend. Taking the fear seriously helps it shrink.",
+      "say": [
+        "\"That feels really scary. Let's check together.\"",
+        "\"Your night light is on guard. It's very brave.\"",
+        "\"What would make your room feel safer tonight?\""
+      ],
+      "avoid": "\"Don't be silly, there's nothing there.\" The fear stays, but now they feel alone with it.",
+      "tonight": {
+        "title": "Mia's Night Light Guard",
+        "text": "When the lights went out, Mia's closet looked like it had eyes. \"Mom!\" she called. \"There's something in there!\" Mom didn't laugh. She came in with a flashlight. \"Let's look together,\" she said. They checked the closet. Shoes. A dress. A sleepy teddy bear. They checked under the bed. A sock. A crayon. \"All clear,\" said Mom. \"But you know what? Your room needs a guard.\" She plugged in a little night light shaped like a moon. \"This is Luna. Luna stays awake all night so you don't have to.\" Mia looked at Luna. Luna glowed softly. \"Does Luna get scared?\" asked Mia. \"Never,\" said Mom. \"She's been guarding rooms for a hundred years.\" Mia pulled up her blanket. The closet didn't have eyes anymore. It just had shoes. \"Goodnight, Luna,\" Mia whispered. And the little moon glowed back, keeping watch all night long."
+      },
+      "img": "dark.jpg"
+    },
+    {
+      "id": "dinner",
+      "free": false,
+      "title": "They won't eat what you made",
+      "sub": "\"Yuck!\" before they've even tried a bite.",
+      "tag": "Mealtime",
+      "feel": "New food is a stranger on my plate. It looks weird. It smells different. My tummy says 'no thank you' before my mouth even tries. When you push, my tummy squeezes even tighter.",
+      "why": "Many young kids are wary of new foods, and it often takes a lot of relaxed exposures before they try something. Pressure tends to backfire.",
+      "say": [
+        "\"You don't have to eat it. It can just sit on your plate and say hi.\"",
+        "\"You can lick it, smell it, or kiss it. Your choice.\"",
+        "\"Tell me what it looks like. A tiny tree?\""
+      ],
+      "avoid": "Bribes like \"three more bites and you get dessert\". They teach that the vegetable is the punishment and dessert is the prize.",
+      "tonight": {
+        "title": "The Stranger on Mia's Plate",
+        "text": "There was a stranger on Mia's plate. It was green and bumpy. \"Yuck,\" said Mia. Grandma smiled. \"That's broccoli. It came all the way from the garden to meet you. You don't have to eat it. Maybe just say hi.\" Mia looked at the broccoli. \"Hi,\" she said. \"It looks like a tiny tree,\" said Grandma. Mia giggled. She made the tree walk across her plate. She gave it a name. Bob. She smelled Bob. He smelled like a garden. The next night, Bob's cousin was on her plate. Mia licked him. Hmm. Not bad. Not great. The night after that, Mia took one tiny bite of the very top of the tree. She chewed. She thought about it. \"It's okay,\" she said. \"Like a crunchy tree.\" Grandma didn't clap or cheer. She just said, \"Thank you for meeting Bob.\" And Mia felt proud, all on her own."
+      },
+      "img": "dinner.jpg"
+    }
+  ]
+}

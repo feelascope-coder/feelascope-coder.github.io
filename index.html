@@ -3,31 +3,78 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Feelascope – parenting, one feeling at a time</title>
-<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600&display=swap" rel="stylesheet">
-<style>
-  body{margin:0;font-family:Nunito,system-ui,sans-serif;background:#FFF6EC;color:#1F2A44;line-height:1.6}
-  main{max-width:680px;margin:0 auto;padding:64px 24px}
-  h1{font-family:Fredoka,sans-serif;font-size:48px;margin:0 0 8px;color:#1F2A44}
-  h1 span{color:#FF7A59}
-  p.lead{font-size:20px;margin:0 0 32px}
-  .links a{display:inline-block;margin:0 10px 10px 0;padding:10px 18px;border-radius:999px;background:#1F2A44;color:#FFF6EC;text-decoration:none;font-weight:600}
-  footer{margin-top:48px;font-size:14px}
-  footer a{color:#1F2A44}
-</style>
+<title>Feelascope – see the day through your child's eyes</title>
+<meta name="description" content="Warm animated stories about everyday family life, seen through your child's eyes. For parents of kids 3–8. Get the free guide.">
+<meta property="og:title" content="Feelascope – see the day through your child's eyes">
+<meta property="og:description" content="Animated stories for parents of kids 3–8, plus a free guide: 4 everyday moments and what your child is really feeling.">
+<meta property="og:image" content="https://feelascope-coder.github.io/img/cover.jpg">
+<link rel="icon" href="icon.png">
+<link rel="stylesheet" href="site.css">
 </head>
 <body>
+<nav class="nav">
+  <a class="logo" href="./">Feel<b>a</b>scope</a>
+  <div><a class="small hide-m" href="#stories">Stories</a><a class="small hide-m" href="https://www.youtube.com/@feelascope">YouTube</a><a class="small" href="free-guide.html">Free guide</a></div>
+</nav>
+
 <main>
-  <h1>Feel<span>a</span>scope</h1>
-  <p class="lead">Short, warm animated stories about raising kids: the tantrums, the tiny wins and the feelings behind them. New videos every day.</p>
-  <div class="links">
-    <a href="https://www.youtube.com/@feelascope">YouTube</a>
-    <a href="https://www.tiktok.com/@feelascope">TikTok</a>
-    <a href="https://www.instagram.com/feelascope">Instagram</a>
+<div class="wrap">
+  <div class="hero">
+    <div>
+      <div class="kicker">For parents of kids 3–8</div>
+      <h1>See the day through your <span>child's</span> eyes</h1>
+      <p class="lead">Warm animated stories about the moments every parent knows: the meltdown at pickup, the "No!" before breakfast, the tears at the classroom door. And what your child is really feeling inside them.</p>
+      <a class="btn" href="free-guide.html">Get the free guide</a>
+      <div class="chips"><span>New episodes every week</span><span>Backed by trusted sources</span><span>No guilt, no lectures</span></div>
+    </div>
+    <div class="art"><img src="img/cover.jpg" alt="Animated mom kneeling next to her smiling daughter in the living room" width="1400" height="788"></div>
   </div>
-  <footer>
-    Contact: feelascope@gmail.com · <a href="privacy.html">Privacy policy</a> · <a href="terms.html">Terms</a>
-  </footer>
+</div>
+
+<section class="band white" id="stories">
+  <div class="wrap">
+    <div class="kicker">Our stories</div>
+    <h2>Everyday moments, from child height</h2>
+    <p style="max-width:680px;color:#33405e">Every episode follows Mia (6) and her family through one moment you'll recognize from this week, shows what's going on inside her, and ends with one small thing to try tonight.</p>
+    <div class="grid3" style="margin-top:28px">
+      <div class="card"><img src="img/gate.jpg" alt="" loading="lazy"><div class="pad"><h3>Why does she fall apart only with you?</h3><p>The angel at school who melts down at the gate.</p></div></div>
+      <div class="card"><img src="img/no.jpg" alt="" loading="lazy"><div class="pad"><h3>Why does she say NO to everything?</h3><p>The morning rush, and the little word that means more than you think.</p></div></div>
+      <div class="card"><img src="img/door.jpg" alt="" loading="lazy"><div class="pad"><h3>Why does she cry when you leave?</h3><p>The classroom-door goodbye, and how to make it smaller than the love.</p></div></div>
+    </div>
+    <p style="margin-top:28px"><a class="btn dark" href="https://www.youtube.com/@feelascope">Watch on YouTube</a></p>
+  </div>
+</section>
+
+<section class="band">
+  <div class="wrap grid2">
+    <div><img class="book" src="img/guide-cover.jpg" alt="Cover of the free guide Through Your Child's Eyes" loading="lazy"></div>
+    <div>
+      <div class="kicker">Free guide</div>
+      <h2>Through Your Child's Eyes</h2>
+      <p>Four everyday moments, what your child is really feeling inside them, and one small thing to try tonight. 12 pages plus a printable bedtime chart.</p>
+      <ul class="check">
+        <li>The meltdown after school</li>
+        <li>"No!" to everything</li>
+        <li>Tears at the classroom door</li>
+        <li>When "good job" stops working</li>
+      </ul>
+      <a class="btn" href="free-guide.html">Get it free</a>
+    </div>
+  </div>
+</section>
+
+<section class="band ink">
+  <div class="wrap narrow" style="text-align:center">
+    <h2>Follow along</h2>
+    <p>New stories with Mia and her family, and short moments every day.</p>
+    <p style="font-weight:800"><a href="https://www.youtube.com/@feelascope">YouTube</a> · <a href="https://www.instagram.com/feelascope">Instagram</a> · <a href="https://www.tiktok.com/@feelascope">TikTok</a></p>
+  </div>
+</section>
 </main>
+
+<footer class="wrap">
+  <a href="privacy.html">Privacy policy</a><a href="terms.html">Terms</a><a href="mailto:feelascope@gmail.com">feelascope@gmail.com</a>
+  <p>Feelascope makes stories for general information and entertainment. Not medical, psychological or professional advice.</p>
+</footer>
 </body>
 </html>
